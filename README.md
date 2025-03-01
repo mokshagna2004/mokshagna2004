@@ -1,14 +1,19 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://mokshagna2004.github.io/my-portfolio/)
-
-<h1 align="center">Hi 👋, I'm Mokshagna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hello,I'm Mokshagna</h1>
+<h3 align="center">🚀 Passionate about technology, coding, and problem-solving.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRydjM2d2cwYjI3c2loZDYydmI5d2pnc21taHczcTM0djdtNXRpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshagna2004&label=Profile%20views&color=0e75b6&style=flat" alt="mokshagna2004" /> </p>
 
-- 👨‍💻 know about me [mokshagna2004.github.io/my-portfolio/](mokshagna2004.github.io/my-portfolio/)
+- 🔭 I’m currently working on **Library Management System with automated reminders**
 
-- 📫 How to reach me **mokshagnagd04@gmail.com**
+- 🌱 I’m currently learning **Machine Learning, SQL**
+
+- 👨‍💻 know about me [https://mokshagna2004.github.io/my-portfolio/](https://mokshagna2004.github.io/my-portfolio/)
+
+- 📫 How to reach me **munnaimran50@gmail.com**
+
+- 📄 Know about my skills and work(resume) [https://drive.google.com/file/d/1QX43dZgv7n3mbKqKmgzXQjHgE1HCM5e4/view](https://drive.google.com/file/d/1QX43dZgv7n3mbKqKmgzXQjHgE1HCM5e4/view)
 
 - ⚡ Fun fact **Dark mode or light mode? Either way, GitHub still looks cool! 🌑☀️**
 
@@ -16,7 +21,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/mokshagna gadupudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshagna gadupudi" height="30" width="40" /></a>
 <a href="https://kaggle.com/mokshagnagadupudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mokshagnagadupudi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/22a31a4270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22a31a4270" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mokshagnagd04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mokshagnagd04" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@22a31a4270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22a31a4270" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mokshagna04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mokshagna04" height="30" width="40" /></a>
 </p>
 
