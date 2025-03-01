@@ -13,7 +13,7 @@
 
 - 👨‍💻 know about me [https://mokshagna2004.github.io/my-portfolio/](https://mokshagna2004.github.io/my-portfolio/)
 
-- 📫 How to reach me **mokshagnagd04@@gmail.com**
+- 📫 How to reach me **mokshagnagd04@gmail.com**
 
 - 📄 Know about my skills and work(resume) [https://drive.google.com/file/d/1QX43dZgv7n3mbKqKmgzXQjHgE1HCM5e4/view](https://drive.google.com/file/d/1QX43dZgv7n3mbKqKmgzXQjHgE1HCM5e4/view)
 
