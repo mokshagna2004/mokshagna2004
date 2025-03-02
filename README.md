@@ -35,10 +35,13 @@
 ---
 
 ## 🛠️ Tech Stack  
+ 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" alt="Tech Stack" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
 </p>
+
 
 ---
 
