@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+  <img align="center" alt="Coding" width="650" height="550" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 </p>
+
 
 ---
 
