@@ -1,16 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://mokshagna2004.github.io/my-portfolio/)
 
-<h1 align="center">👋 Hey there, I'm Mokshagna! </h1>
-<h3 align="center">A Passionate Developer & Problem Solver🚀</h3>
+<h1 align="center">👋 Hey there, I'm Mokshagna! 🚀</h1>
+<h3 align="center">A Passionate Developer & Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mokshagna2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="650" height="550" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+  <img align="center" alt="Coding" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRydjM2d2cwYjI3c2loZDYydmI5d2pnc21taHczcTM0djdtNXRpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 </p>
-
 
 ---
 
