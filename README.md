@@ -16,7 +16,7 @@
 ## 🚀 About Me  
 ✅ **Currently working on:** Library Management System with automated reminders 📚  
 ✅ **Learning:** Machine Learning, SQL 🤖  
-✅ **Check out my work:** [Portfolio](https://mokshagna2004.github.io/my-portfolio/) 🌍  
+✅ **Check out my work:** [Portfolio](https://mokshagna2004.github.io/My-portfolio/) 🌍  
 ✅ **Download my resume:** [Click Here](https://drive.google.com/file/d/1QX43dZgv7n3mbKqKmgzXQjHgE1HCM5e4/view) 📄  
 ✅ **Reach me at:** **mokshagnagd04@gmail.com** ✉️  
 ✅ **Fun Fact:** Dark mode or light mode? Either way, GitHub still looks cool! 🌑☀️  
