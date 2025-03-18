@@ -37,11 +37,34 @@
 ## 🛠️ Tech Stack  
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,mysql" alt="Tech Stack" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br>CSS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br>Pandas
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/><br>NumPy
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/><br>Matplotlib
+      </td>
+    </tr>
+  </table>
 </p>
+
+
 
 
 ---
@@ -51,12 +74,14 @@
  
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokshagna2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mokshagna2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokshagna2004&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-mokshagna2004.vercel.app/api?username=mokshagna2004&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshagna2004&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
