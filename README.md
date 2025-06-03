@@ -93,9 +93,7 @@
 ---
 
 ## 🎯 Goals for 2025  
-✔️ Enhance my **Machine Learning** skills 🤖  
-✔️ Gain expertise in **Cloud Computing** ☁️  
-✔️ Build **full-stack web applications** 🌐  
+✔️ Enhance my **Machine Learning** skills 🤖   
 ✔️ Work on **open-source projects** 💡  
 
 ---
