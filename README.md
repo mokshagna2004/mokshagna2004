@@ -67,28 +67,6 @@
 
 
 
----
-
-
-  
- 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokshagna2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats-mokshagna2004.vercel.app/api?username=mokshagna2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshagna2004&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-
-
 
 ---
 
