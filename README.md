@@ -60,6 +60,15 @@
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/><br>Matplotlib
       </td>
+      <td align="center">
+        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50"/><br>Seaborn
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/><br>scikit-learn
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="50" height="50"/><br>LangChain
+      </td>
     </tr>
   </table>
 </p>
