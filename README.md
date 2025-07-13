@@ -67,6 +67,9 @@
       <td align="center">
         <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="50" height="50"/><br>LangChain
       </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>TensorFlow
+      </td>
     </tr>
   </table>
 </p>
