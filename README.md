@@ -33,7 +33,6 @@
 ---
 
 ## 🛠️ Tech Stack  
- 
 <p align="center">
   <table>
     <tr>
@@ -70,9 +69,14 @@
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>TensorFlow
       </td>
+      <td align="center">
+        <img src="https://static.vecteezy.com/system/resources/previews/010/214/734/original/llm-letter-technology-logo-design-on-white-background-llm-creative-initials-letter-it-logo-concept-llm-letter-design-vector.jpg" width="50" height="50"/><br>LLM
+      </td>
     </tr>
   </table>
 </p>
+
+
 
 
 
