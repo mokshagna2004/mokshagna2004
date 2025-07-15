@@ -11,6 +11,9 @@
   <img align="center" alt="Coding" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRydjM2d2cwYjI3c2loZDYydmI5d2pnc21taHczcTM0djdtNXRpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 </p>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+
 ---
 
 ## 🚀 About Me  
