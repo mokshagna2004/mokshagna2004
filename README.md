@@ -18,7 +18,7 @@
 
 ## 🚀 About Me  
 ✅ **Check out my work:** [Portfolio](https://mokshagna2004.github.io/My-portfolio/) 🌍  
-✅ **Download my resume:** [Click Here]([https://drive.google.com/file/d/1QX43dZgv7n3mbKqKmgzXQjHgE1HCM5e4/view](https://drive.google.com/file/d/1Ic47iIVwxXi7qt5hO-BVHoU_dIANFqJT/view?usp=sharing)) 📄  
+✅ **Download my resume:** [Click Here]([https://drive.google.com/file/d/1QX43dZgv7n3mbKqKmgzXQjHgE1HCM5e4/view](https://drive.google.com/file/d/1Ic47iIVwxXi7qt5hO-BVHoU_dIANFqJT/view?usp=sharing]) 📄  
 ✅ **Reach me at:** **mokshagnagd04@gmail.com** ✉️  
 ✅ **Fun Fact:** Dark mode or light mode? Either way, GitHub still looks cool! 🌑☀️  
 
