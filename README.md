@@ -18,7 +18,7 @@
 
 ## 🚀 About Me  
 ✅ **Check out my work:** [Portfolio](https://mokshagna.netlify.app/) 🌍  
-✅ **resume:** [Click Here](https://drive.google.com/file/d/1Ic47iIVwxXi7qt5hO-BVHoU_dIANFqJT/view?usp=drive_link) 📄  
+✅ **resume:** [Click Here](https://drive.google.com/file/d/1OEtNNmOSVvTmCJxU6ZHzMa2K2Eeu7ojM/view) 📄  
 ✅ **Reach me at:** **mokshagnagd04@gmail.com** ✉️  
 ✅ **Fun Fact:** Dark mode or light mode? Either way, GitHub still looks cool! 🌑☀️  
 
