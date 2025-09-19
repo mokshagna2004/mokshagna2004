@@ -75,6 +75,9 @@
       <td align="center">
         <img src="https://static.vecteezy.com/system/resources/previews/010/214/734/original/llm-letter-technology-logo-design-on-white-background-llm-creative-initials-letter-it-logo-concept-llm-letter-design-vector.jpg" width="50" height="50"/><br>LLM
       </td>
+       <td align="center">
+        <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/><br>OpenCV
+      </td>
     </tr>
   </table>
 </p>
